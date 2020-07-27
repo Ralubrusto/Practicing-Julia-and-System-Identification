@@ -13,7 +13,9 @@ All the texts, explanations, and even codes are in Portuguese. As they're being 
 - Exercise 2 - OK (_needs revision_)
 - Exercise 3 - OK (_needs revision_)
 - Exercise 4 - OK (_needs revision_)
-- Exercise 5 - Still working on it
+- Exercise 5 - OK (_needs revision_)
+- Exercise 6 - OK (_needs revision_)
+- Exercise 7 - Still working on 
 - Exercise N .... (to be continued)
 
 Maybe I'll add some additional comments later. But for now, take care!
